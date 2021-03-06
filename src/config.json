@@ -1,0 +1,12 @@
+{
+    "firebaseConfig": {
+        "apiKey": "AIzaSyBgRPQJepUbjs9xA4eQ5e7J04Yqk-_uhYA",
+        "authDomain": "portfolio-th.firebaseapp.com",
+        "databaseURL": "https://portfolio-th-default-rtdb.firebaseio.com",
+        "projectId": "portfolio-th",
+        "storageBucket": "portfolio-th.appspot.com",
+        "messagingSenderId": "797056371825",
+        "appId": "1:797056371825:web:3ef99482e899ec436f5fd0",
+        "measurementId": "G-QFW6YY3VYW"
+    }
+}
